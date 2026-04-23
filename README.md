@@ -1,6 +1,4 @@
-# Hi there, I'm Sirojiddin 👋
-
-### 👨‍💻 Front End Developer | 🇺🇿 Uzbekistan
+# Hi there, I'm <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=500&color=F7DF1E&vCenter=true&lines=Sirojiddin+👋;Front+End+Developer+💻;Student+of+Technology+🚀" alt="Typing SVG" />
 
 ---
 
