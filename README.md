@@ -30,10 +30,3 @@
 </p>
 
 ---
-
-### 📈 GITHUB ACTIVITY
-![Sirojiddin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true)
-
-![Sirojiddin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true)
-
----
