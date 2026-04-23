@@ -5,7 +5,6 @@
 ---
 
 ### 💡 ABOUT ME
-
 - 🔍 Working on **frontend projects**.
 - ✍️ Improving **Full-Stack skills**.
 - 💬 Feel free to ask me anything!
@@ -14,7 +13,6 @@
 ---
 
 ### 🛠 TECH STACK
-
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -33,4 +31,9 @@
 
 ---
 
+### 📈 GITHUB ACTIVITY
+![Sirojiddin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true)
 
+![Sirojiddin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true)
+
+---
