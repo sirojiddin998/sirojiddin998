@@ -1,43 +1,36 @@
-<h1 align="center">Hi There 👋, I'm Sirojiddin</h1>
-<h3 align="center">🚀 Front End Developer from Uzbekistan</h3>
+# Hi there, I'm Sirojiddin 👋
 
-<br/>
-
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
-### 👨‍💻 About Me:
-
-- 🔭 Working on frontend projects
-- 🌱 Currently improving my Full-Stack development skills
-- 💬 Feel free to ask me anything
-- 📫 Contact: [sirojiddinqamardinov@gmail.com](mailto:sirojiddinqamardinov@gmail.com)
-- ⚡ Fun-Fact: **Anything is possible**
-
-<br/><br/><br/>
+### 👨‍💻 Front End Developer | 🇺🇿 Uzbekistan
 
 ---
 
-### 🛠 Tech Stack
+### 💡 ABOUT ME
 
-- 🌐 **HTML5** – Structure of web pages
-- 🎨 **CSS3** – Styling and layout
-- ⚙️ **JavaScript (ES6+)** – Interactive functionality
-- 🔷 **TypeScript** – Type-safe JavaScript development
-- ⚛️ **React.js** – Component-based UI development
-- 🖥️ **Next.js** – Server-side rendering and full-stack capabilities
-- 💅 **Tailwind CSS / Ant Design / Material UI** – UI styling and components
-- 🐙 **Git & GitHub** – Version control and collaboration
+- 🔍 Working on **frontend projects**.
+- ✍️ Improving **Full-Stack skills**.
+- 💬 Feel free to ask me anything!
+- 📫 How to reach me: [sirojiddinqamardinov@gmail.com](mailto:sirojiddinqamardinov@gmail.com)
 
 ---
 
-### 🔗 Connect with me
+### 🛠 TECH STACK
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sirojiddinqamardinov)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sirojiddinqamardinov)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sirojiddinqamardinov@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=80&section=footer"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
+---
+
+![Sirojiddin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
